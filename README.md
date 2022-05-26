@@ -8,7 +8,7 @@ Atualmente trabalho com desenvolvimento de software, utilizando linguagens como:
 
 
 - 🔭 Trabalho na Base Automação
-- 🌱 Tenho estudado ReactJs, TypeScript, NodeJse Styled-Components
+- 🌱 Tenho estudado ReactJs, TypeScript, NodeJs e Styled-Components
 - 🤔 Posso colaborar com conhecimentos sobre programação e tecnologia
 - 📫 Meu contato: https://www.linkedin.com/in/levi-santana-de-almeida-649ba5158 or levinhosa@gmail.com
 
