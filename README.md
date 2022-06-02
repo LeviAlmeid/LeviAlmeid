@@ -34,13 +34,17 @@ Atualmente trabalho com desenvolvimento de software, utilizando linguagens como:
 
 <div align="center">
   <h3>Skills:</h3>
-  <img margin-rigth="3px" title="ReactJs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img margin-rigth="3px" title="Typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img margin-rigth="3px" title="NodeJs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img margin-rigth="3px" title="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-  <img margin-rigth="3px" title="CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-  <img margin-rigth="3px" title="JavaScipt" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img title="PHP" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
+  <code><img margin-rigth="3px" title="ReactJs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code>
+   <img margin-rigth="3px" title="Typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+  <code><img margin-rigth="3px" title="NodeJs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code>
+  <code>
+   <img margin-rigth="3px" title="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+  <code>
+   <img margin-rigth="3px" title="CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+  <code>
+   <img margin-rigth="3px" title="JavaScipt" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code> 
+  <code><img title="PHP" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
  <br> <br> <br>
  
  ![Snake animation](https://github.com/LeviAlmeid/LeviAlmeid/blob/output/github-contribution-grid-snake.svg)
