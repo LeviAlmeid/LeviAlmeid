@@ -42,3 +42,6 @@ Atualmente trabalho com desenvolvimento de software, utilizando linguagens como:
   <img margin-rigth="3px" title="JavaScipt" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img title="PHP" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
 </div>
+ 
+ <br> <br> <br>
+ ![Snake animation](https://github.com/LeviAlmeid/LeviAlmeid/blob/output/github-contribution-grid-snake.svg)
