@@ -4,7 +4,7 @@
 
 Sou desenvolvedor full-stack, estudante de ciência da computação e apaixonado por tecnologia.
 
-Atualmente trabalho com desenvolvimento de software, utilizando linguagens como: JavaScript, HTML, CSS, PHP e Banco de Dados.
+Atualmente trabalho com desenvolvimento de software, utilizando linguagens como: JavaScript, HTML, CSS, PHP, AJAX e Banco de Dados.
 
 <br>
 
