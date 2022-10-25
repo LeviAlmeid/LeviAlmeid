@@ -8,7 +8,6 @@ Atualmente trabalho com desenvolvimento de software, utilizando linguagens como:
 
 <br>
 
-- 🔭 Trabalho na Base Automação
 - 🌱 Tenho estudado ReactJs, TypeScript, NodeJs e Styled-Components
 - 🤔 Posso colaborar com conhecimentos sobre programação e tecnologia
 
