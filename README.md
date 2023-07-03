@@ -2,13 +2,14 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-Sou desenvolvedor full-stack, estudante de ciência da computação e apaixonado por tecnologia.
+Sou desenvolvedor full-stack, estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia.
 
-Atualmente trabalho com desenvolvimento de software, utilizando linguagens como: JavaScript, HTML, CSS, PHP, AJAX e Banco de Dados.
+Já trabalhei profissionalmente com tecnologias como AngularJs, .Net Core, Asp.Net e SQL.
 
+Estou a procura de uma oportunidade como Desenvolvedor Full-stack Junior.
 <br>
 
-- 🌱 Tenho estudado ReactJs, TypeScript, NodeJs e Styled-Components
+- 🌱 Tenho estudado React, TypeScript, NodeJs e Styled-Components
 - 🤔 Posso colaborar com conhecimentos sobre programação e tecnologia
 
 
