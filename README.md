@@ -28,8 +28,8 @@ Atualmente, estou em busca de uma oportunidade como **Desenvolvedor Full-stack J
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviAlmeid&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAlmeid&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviAlmeid&show_icons=true&theme=dark" alt="Levi's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAlmeid&layout=compact&theme=dark" alt="Levi's most used languages" />
 </div>
 
 ---
